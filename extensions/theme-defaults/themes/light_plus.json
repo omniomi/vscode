@@ -84,6 +84,14 @@
 			}
 		},
 		{
+			"name": "Variable members",
+			"scope": "variable.other.member",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#795E26"
+			}
+		},
+		{
 			"name": "Object keys, TS grammar specific",
 			"scope": [
 				"meta.object-literal.key"

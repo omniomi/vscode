@@ -90,6 +90,14 @@
 			}
 		},
 		{
+			"name": "Variable members",
+			"scope": "variable.other.member",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#BBDAFF"
+			}
+		},
+		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit",
 			"settings": {

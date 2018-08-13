@@ -211,6 +211,14 @@
 			}
 		},
 		{
+			"name": "Variable members",
+			"scope": "variable.other.member",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#CE6700"
+			}
+		},
+		{
 			"name": "Meta Brace",
 			"scope": "punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html",
 			"settings": {

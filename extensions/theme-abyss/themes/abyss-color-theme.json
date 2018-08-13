@@ -60,6 +60,14 @@
 			}
 		},
 		{
+			"name": "Variable members",
+			"scope": "variable.other.member",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#ddbb88"
+			}
+		},
+		{
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
