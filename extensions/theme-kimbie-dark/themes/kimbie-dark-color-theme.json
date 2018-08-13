@@ -127,7 +127,6 @@
 			"name": "Variable members",
 			"scope": "variable.other.member",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#8ab1b0"
 			}
 		},
